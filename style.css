@@ -1,9 +1,15 @@
-  body {
-  perspective: 800px;
-  background: url("gym.jpeg") no-repeat center center fixed;
-  background-size: cover;
-}
+ 
 
+
+ 
+
+
+
+
+body{background-image: url(../../gymn.png);
+  perspective: 800px;
+  
+  background-size: cover;}  
     
   .logo {
   width: 200px;
@@ -24,6 +30,8 @@ header {
   height: 100vh;
   background-size: cover;
 }
+
+
 
 ul {
   list-style: none;
@@ -137,7 +145,7 @@ nav a:hover {
     font-size: 30px;
     color: black;
    }
-   ol{font: size 20px;
+   ol{font: size 20px;;
 
    }
 p{
@@ -155,7 +163,7 @@ div{
   margin-top: 150px;   
   font-family: "Poppins", sans-serif;
   font-weight: 400;
-  position: }
+  }
 h4{
   font-size: 20px;
 }
