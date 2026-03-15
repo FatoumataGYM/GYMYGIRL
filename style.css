@@ -1,7 +1,9 @@
-  body{
+  body {
   perspective: 800px;
-background-image: url(gymnase (1).png);
-  background-size: cover;}  
+  background: url("gym.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
     
   .logo {
   width: 200px;
