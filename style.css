@@ -6,7 +6,7 @@
 
 
 
-body{background-image: url(../../gymn.png);
+body{background-color: gray;
   perspective: 800px;
   
   background-size: cover;}  
